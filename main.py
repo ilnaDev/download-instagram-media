@@ -63,7 +63,7 @@ while True:
     sys.stdout.flush()
     print()
     print()
-    string1= input("enter the target profile url (must be public account): https://www.instagram.com/target_profile_name/\nor enter the text which is shown in (if the account is private): https://www.instagram.com/target_profile_name/?__a=1&__d=dis\n\n")
+    string1= input("for public account- enter the target profile url: https://www.instagram.com/target_profile_name/\nfor private account- enter the text which shown in: https://www.instagram.com/target_profile_name/?__a=1&__d=dis\n\n")
     print()
 
     # getting the name of the target, the output folder will be named as the target name
