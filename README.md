@@ -1,5 +1,5 @@
 # download-instagram-media
-a simple python script that can download media from instagram, it has 2 oprtions:</br>
+a simple python script that can download media from instagram, it has 2 options:</br>
 1. if the user is public:</br>
   Enter the profile Url "https://www.instagram.com/target_profile_name/"</br>
   example- for the current best footballer, the ***input*** will be: https://www.instagram.com/leomessi/</br>
